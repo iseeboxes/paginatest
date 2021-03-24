@@ -39,7 +39,7 @@ a{
 .medio{
 	height:90px; 
 	width:170px;
-	background-image: url(imagenes/top_arrow.png),url(imagenes/top_arrow1.png);
+	background-image: url(top_arrow.png),url(top_arrow1.png);
 	background-repeat: no-repeat;
 	background-position: 77px,18px -1px;
 	background-color: var(--color-gris);
